@@ -3,11 +3,12 @@
 Javafx, Cpp, python.
 
 HillClimbing Performance
-![HillClimbing](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![HillClimbing](results/HillClimbing.png)
 
   
 RandomRestart Performance
-![RandomRestart](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![RandomRestart](results/RandomRestart.png)
 
 SimulatedAnnealing Performance
-![SimulatedAnnealing](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![SimulatedAnnealing](results/SimulatedAnnealing.png
+)
